@@ -1,0 +1,8 @@
+{
+    "extends": "./lib/base.json",
+    "compilerOptions": {
+        "lib": ["dom", "dom.iterable"],
+        "jsx": "preserve",
+        "jsxFactory": "createElement"
+    }
+}
