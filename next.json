@@ -3,6 +3,7 @@
     "compilerOptions": {
         "lib": ["dom", "dom.iterable"],
         "jsx": "preserve",
-        "jsxFactory": "createElement"
+        "jsxFactory": "createElement",
+        "baseUrl": "."
     }
 }
