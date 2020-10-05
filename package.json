@@ -1,7 +1,15 @@
 {
     "name": "@nick-mazuk/tsconfig",
     "version": "0.1.0",
-    "description": "",
+    "description": "an tsconfig for my personal projects",
+    "homepage": "https://github.com/Nick-Mazuk/tsconfig#readme",
+    "bugs": {
+        "url": "https://github.com/Nick-Mazuk/tsconfig/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nick-Mazuk/tsconfig"
+    },
     "main": "tsconfig.json",
     "directories": {
         "lib": "lib"
@@ -11,5 +19,8 @@
     },
     "keywords": [],
     "author": "",
-    "license": "MIT"
+    "license": "MIT",
+    "peerDependencies": {
+        "typescript": ">= 3.9.7"
+    }
 }
