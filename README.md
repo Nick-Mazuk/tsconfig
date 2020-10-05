@@ -1,5 +1,5 @@
 # tsconfig
- 
+
 A strict tsconfig for TypeScript projects.
 
 ## Getting started
