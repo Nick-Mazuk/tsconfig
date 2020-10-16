@@ -21,6 +21,6 @@
     "author": "",
     "license": "MIT",
     "peerDependencies": {
-        "typescript": ">= 3.9.7"
+        "typescript": ">= 4.0.0"
     }
 }
